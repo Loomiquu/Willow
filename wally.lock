@@ -3,11 +3,6 @@
 registry = "test"
 
 [[package]]
-name = "evaera/promise"
-version = "4.0.0"
-dependencies = []
-
-[[package]]
 name = "loomiquu/willow"
-version = "0.1.3"
-dependencies = [["promise", "evaera/promise@4.0.0"], ["willow", "loomiquu/willow@0.1.3"]]
+version = "0.1.5"
+dependencies = [["willow", "loomiquu/willow@0.1.5"]]
