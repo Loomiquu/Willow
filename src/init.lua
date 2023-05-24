@@ -1,11 +1,10 @@
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
-local Utils = script.Parent.Parent
+local dependancies = script:WaitForChild('Packages')
 
----@module Packages.Promise
-local Promise = require(Utils.Promise)
+local Promise = require(dependancies.Promise)
 
 local function init()
-
+    
 end
 
 return init()
