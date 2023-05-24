@@ -1,9 +1,10 @@
 [package]
 name = "loomiquu/willow"
 description = "Svelte inspired UI Framework, that gives you more control over creating UIs"
-version = "0.1.2"
+version = "0.1.3"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
 
 [dependencies]
 promise = "evaera/promise@4.0.0"
+willow = "loomiquu/willow@0.1.3"
