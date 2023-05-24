@@ -1,5 +1,6 @@
 [package]
 name = "loomiquu/willow"
+description = "Svelte inspired UI Framework, that gives you more control over creating UIs"
 version = "0.1.0"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"

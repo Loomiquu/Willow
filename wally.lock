@@ -11,8 +11,3 @@ dependencies = []
 name = "loomiquu/willow"
 version = "0.1.0"
 dependencies = [["promise", "evaera/promise@4.0.0"]]
-
-[[package]]
-name = "loomiquu/x"
-version = "0.1.0"
-dependencies = [["promise", "evaera/promise@4.0.0"], ["willow", "loomiquu/willow@0.1.0"]]
