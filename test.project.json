@@ -1,0 +1,25 @@
+{
+    "name": "willow-test",
+    "tree": {
+        "$className": "DataModel",
+
+        "ReplicatedStorage":{
+            "$className": "ReplicatedStorage",
+            "willow": {
+                "$path": "lib"
+            }
+        },
+
+        "StarterPlayer":{
+            "$className": "StarterPlayer",
+            
+            "StarterPlayerScripts":{
+                "$className": "StarterPlayerScripts",
+                "SyntaxTest": {
+                    "$path": "syntaxTest.client.lua"
+                }
+            }
+        }
+
+    }
+}
