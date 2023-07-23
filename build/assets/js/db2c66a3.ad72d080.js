@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[241],{23253:s=>{s.exports=JSON.parse('{"functions":[],"properties":[],"types":[],"name":"Willow","desc":"","source":{"line":5,"path":"src/Willow/init.lua"}}')}}]);

@@ -1,0 +1,25 @@
+{
+	"name": "willow",
+	"tree": {
+		"$className": "DataModel",
+
+		"ReplicatedStorage": {
+			"$className": "ReplicatedStorage",
+			
+			"Willow": {
+				"$path": "src/Willow"
+			},
+
+			"Packages": {
+				"$path": "Packages"
+			}
+		},
+
+		"StarterGui": {
+			"ClientTester": {
+				"$path": "test"
+			}
+		}
+
+	}
+}
