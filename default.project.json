@@ -1,6 +1,6 @@
 {
-	"name": "willow",
-	"tree": {
-		"$path": "src/Willow"
-	}
+  "name": "willow",
+  "tree": {
+    "$path": "lib"
+  }
 }
